@@ -1,0 +1,16 @@
+.slick-slider {
+  width: 100%;
+  overflow: hidden;
+}
+.slick-list {
+  position: relative;
+  display: block !important;
+  width: 100%;
+}
+.slick-slide div {
+  width: auto;
+  margin-right: 10px;
+}
+.slick-slide img {
+  width: calc(100% - 10px) !important;
+}
